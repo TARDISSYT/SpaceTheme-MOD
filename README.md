@@ -30,6 +30,7 @@
 </details>
 
 DISCLAIMER: I AM NOT THE ORIGINAL AUTHOR! I ONLY WANTED TO FORK THIS SO IT AUTOMATICALLY HAS MY PERSONAL PREFRENCES ON.
+I WASN'T ABLE TO GET THE RELEASES PAGE TO WORK (i don't use github lol) SO YOU NEED TO DOWNLOAD THE CODE AS A .ZIP TO MAKE IT WORK.
 ## Automatic installation (Recommended)
 1. Download [Millennium](https://docs.steambrew.app/users/installing). Follow the instructions provided to install the patcher.
 1. Download [SpaceTheme Installer](https://github.com/SpaceTheme/Installer/releases) or
