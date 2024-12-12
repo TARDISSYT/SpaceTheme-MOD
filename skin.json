@@ -13,7 +13,7 @@
         },
         "System accent colors": {
             "description": "Replaces the SpaceTheme accent colors with your system accent colors",
-            "default": "no",
+            "default": "yes",
             "tab": "General",
             "values": {
                 "no": {},
@@ -25,7 +25,7 @@
         
         "Navigation buttons": {
             "description": "Hide Navigation buttons",
-            "default": "yes",
+            "default": "no",
             "tab": "Steam bloat",
             "values": {
                 "no": {},
@@ -69,7 +69,7 @@
         },
         "News button": {
             "description": "Hide News button form userpannel",
-            "default": "no",
+            "default": "yes",
             "tab": "Steam bloat",
             "values": {
                 "no": {},
@@ -190,8 +190,8 @@
     "RootColors": "./src/css/root.css",
     "Steam-WebKit": "webkit.css",
     "UseDefaultPatches": true,
-    "author": "SpaceEnergy",
-    "description": "A modular design with dark colors intended to enhance navigability and improve user experience.",
+    "author": "SpaceEnergy Modded By TARDISS",
+    "description": "A modular design with dark colors intended to enhance navigability and improve user experience. Some settings preconfigured.",
     "discord_support": { "inviteCodeExcludingLink": "7Zv8Xz3Vzn" },
     "funding": { "kofi": "spacetheme" },
     "github": {
